@@ -1,4 +1,8 @@
-# Welcome to your Expo app 👋
+# TequiLLM 🌵🍸
+
+<img width="1080" height="2400" alt="Screenshot_1764419350" src="https://github.com/user-attachments/assets/af7eaedc-eac7-4a26-b55b-dd628a9fae2e" />
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
